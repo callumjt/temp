@@ -1,0 +1,7 @@
+make sure it includes:
+- example of product
+- section that shows of its features, like github copilot
+
+https://www.npmjs.com/
+https://onepagelove.com/tag/js-library
+https://github.com/features/copilot
